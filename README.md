@@ -1,5 +1,6 @@
 # ssl-scan-bot
 Script written in bash to perform scans against any website and compile a graded SSL report for PCI and HIPAA compliance.
+
 The ssl-scan-bot TLS scan script will request three variables from the user, 'Domain', 'Port', and 'Company'. These variables will be used to perform the scan and generate a report for any desired company or website.
 
 Usage for ssl-scan-bot script:
